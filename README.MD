@@ -1,1 +1,1 @@
-### Algorithms in JS
+## Algorithms in JS
