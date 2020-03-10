@@ -1,5 +1,5 @@
 /*
-  Find Unique Numbers in Array
+  Maximum sum of n consecutive numbers in an array
 */
 
 function maxSubArraySum(arr, n) {
