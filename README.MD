@@ -4,11 +4,11 @@
 To test all the files run
 
 ```
-jest
+npm test
 ```
 
 To test single file run
 
 ```
-jest path/to/my-test.js
+npm test folderName
 ```
